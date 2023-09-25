@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheSchinz
 - 👀 I’m interested in bioinfomatics
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning R, Snakemake, Bash
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
